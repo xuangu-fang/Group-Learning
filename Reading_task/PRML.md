@@ -1,6 +1,7 @@
 For 力豪 & 欣宇
 
 Book：[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
 Resource （Jupyter Notebook）: 
 - v1: [gerdm/prml: Repository of notes, code and notebooks in Python for the book Pattern Recognition and Machine Learning by Christopher Bishop](https://github.com/gerdm/prml/tree/master)
 - v2: [ctgk/PRML: PRML algorithms implemented in Python](https://github.com/ctgk/PRML/tree/main)
