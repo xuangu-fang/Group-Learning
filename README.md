@@ -6,5 +6,5 @@
 
 - PhyAI Reading Roadmap:[link](./Reading_task/PhyAI_roadmap.md)
 
-- 本周论文：
+- 本周论文：Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation [link](https://arxiv.org/abs/2410.13794)
   
