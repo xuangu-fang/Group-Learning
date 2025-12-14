@@ -14,6 +14,20 @@ Resource （Jupyter Notebook）:
 - 会有一个考察/自查环节，基本是PRML 对应章节后面的题目（最简单的几道），强烈建议自己手动推导/敲latex，打基础的环节不要用AI偷懒
 
 
+
+## 第四-五周（12.15-12.28）：
+
+PRML 主线阅读暂停两周，来学习 **矩阵求导，拉格朗日乘数** 基础内容，以帮助更好理解PRML 后续内容：
+
+- 学习材料：
+    - 矩阵求导：[Minka'note on matrix derivation](https://tminka.github.io/papers/matrix/minka-matrix.pdf) P1-P13 
+    - 拉格朗日乘子法：PRML appendix E (P727-P730)
+- 扩展阅读: 
+    - PRML Appendix C (P695-701) 
+    - [知乎](https://www.zhihu.com/question/338548610/answer/835833420)
+- 作业&自查：[link](../assets/hw_matrix_derivatives.md)
+
+
 ## 第二-三周(12.1-12.14):
 
 基础信息论-基础概率分布-多元高斯：
