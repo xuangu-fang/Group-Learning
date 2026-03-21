@@ -35,7 +35,7 @@
 
 1. 基本信息配置：`meta.yml`
 
-- 命名要求：固定为 'meta.yml'（不可修改为其他名称）
+- 命名要求：固定为 `meta.yml` 即可
 - 内容要求：记录本次组会的基本信息，具体要求可以参考[meta_reference.yml](meta_reference.yml)（可以直接复制使用）
 
 
