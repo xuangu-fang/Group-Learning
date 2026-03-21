@@ -1,0 +1,10 @@
+date: 2026-03-19
+topic: Diffusion Models
+speaker: 张三
+papers:
+  - title: Diffusion  #论文的标题，可以简写
+    url: https://arxiv.org/abs/2405.12345   #论文的URL链接
+  - title: Flow Matching  #如果有多篇paper，可以继续添加
+    url: https://github.com/labxxx/dataset
+  - title: SDE
+    file: ./sde.pdf   #如果paper找不到URL，可以使用file字段，指向文件路径
