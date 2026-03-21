@@ -29,11 +29,11 @@
 
 - 命名要求：固定为 `slides.pdf` 即可
 
-1. 会议纪要：`notes.md`
+2. 会议纪要：`notes.md`
 腾讯会议/飞书自动导出的会议纪要
 - 命名要求：固定为 `notes.md` 即可
 
-1. 基本信息配置：`meta.yml`
+3. 基本信息配置：`meta.yml`
 
 - 命名要求：固定为 `meta.yml` 即可
 - 内容要求：记录本次组会的基本信息，具体要求可以参考[meta_reference.yml](meta_reference.yml)（可以直接复制使用）
