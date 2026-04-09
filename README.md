@@ -9,6 +9,7 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
+| - | - | - | - | - | - |  |
 | 2026-04-02 | Neural ODE | 张雨阳 | [Slides](group-meetings/20260402_NeuralODE/slides.pdf) | [Neural ODE](https://arxiv.org/abs/1806.07366) | [Notes](group-meetings/20260402_NeuralODE/notes.md) |  |
 | 2026-03-26 | CinDM（能量角度Diffusion） | 张欣宇 | [Slides](group-meetings/20260326_CinDM/slides.pdf) | [CinDM](https://arxiv.org/html/2401.13171v2) | [Notes](group-meetings/20260326_CinDM/notes.md) |  |
 | 2026-03-19 | K-Flow | 陈力豪 | [Slides](group-meetings/20260319_K-Flow/slides.pdf) | [K-Flow](https://arxiv.org/abs/2504.19353) | [Notes](group-meetings/20260319_K-Flow/notes.md) |  |
