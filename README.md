@@ -9,6 +9,7 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
+| - | - | - | - | - | - |  |
 | 2026-04-23 | ANODE & LatentODE | 张雨阳 | [Slides](group-meetings/20260423_ANODE&Latent_ODE/slides.pdf) | [ANODE](https://arxiv.org/abs/1904.01681)<br>[LatentODE](https://arxiv.org/abs/1907.03907) | [Notes](group-meetings/20260423_ANODE&Latent_ODE/notes.md) |  |
 | 2026-04-16 | GenCP | 张欣宇 | [Slides](group-meetings/20260416_GenCP/slides.pdf) | [GenCP](https://arxiv.org/abs/2601.19541) | [Notes](group-meetings/20260416_GenCP/notes.md) |  |
 | 2026-04-09 | Inverse Design | 陈力豪 | [Slides](group-meetings/20260409_Winged%20seeds/slides.pdf) | [Winged Seed](https://dl.acm.org/doi/10.1145/3687899) | [Notes](group-meetings/20260409_Winged%20seeds/notes.md) |  |
