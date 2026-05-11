@@ -1,1 +1,8 @@
-
+date: 2026-05-07
+topic: Gaussian Process(GP)
+speaker: 方榯楷
+papers: 
+  - title: BayOTIDE
+    url: https://arxiv.org/abs/2308.14906
+  - title: GP for high frequecy PDEs
+    url: https://arxiv.org/abs/2311.04465
