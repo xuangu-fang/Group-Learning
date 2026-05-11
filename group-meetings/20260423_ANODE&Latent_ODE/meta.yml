@@ -1,1 +1,8 @@
-
+date: 2026-04-23
+topic: ANODE & LatentODE
+speaker: 张雨阳
+papers: 
+  - title: ANODE
+    url: https://arxiv.org/abs/1904.01681
+  - title: LatentODE
+    url: https://arxiv.org/abs/1907.03907
