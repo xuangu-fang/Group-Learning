@@ -9,7 +9,6 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
-| - | - | - | - | - | - |  |
 | 2026-05-16 | Just image Transformers | 陈力豪 | [Slides](group-meetings/20260514_JiT/slides.pdf) | [JiT](https://arxiv.org/abs/2511.13720) | [Notes](group-meetings/20260514_JiT/notes.md) |  |
 | 2026-05-07 | Gaussian Process(GP) | 方榯楷 | [Slides](group-meetings/20260507_GP/slides.pdf) | [BayOTIDE](https://arxiv.org/abs/2308.14906)<br>[GP for high frequecy PDEs](https://arxiv.org/abs/2311.04465) | [Notes](group-meetings/20260507_GP/notes.md) |  |
 | 2026-04-23 | ANODE & LatentODE | 张雨阳 | [Slides](group-meetings/20260423_ANODE&Latent_ODE/slides.pdf) | [ANODE](https://arxiv.org/abs/1904.01681)<br>[LatentODE](https://arxiv.org/abs/1907.03907) | [Notes](group-meetings/20260423_ANODE&Latent_ODE/notes.md) |  |
