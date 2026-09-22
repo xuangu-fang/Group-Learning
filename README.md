@@ -9,7 +9,7 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
-| - | - | - | - | - | - |  |
+| 2026-06-25 | Transformer | 张雨阳 | - | [Transformer](https://arxiv.org/abs/1706.03762)<br>[ViT](https://arxiv.org/abs/2010.11929)<br>[DiT](https://arxiv.org/abs/2212.09748) | - |  |
 | 2026-06-18 | CFO | 张欣宇 | [Slides](group-meetings/20260618_CFO/slides.pdf) | [CFO](https://arxiv.org/abs/2512.05297) | [Notes](group-meetings/20260618_CFO/notes.md) |  |
 | 2026-06-11 | JEPA | 陈力豪 | [Slides](group-meetings/20260611_JEPA/slides.pdf) | [JEPA](https://openreview.net/pdf?id=BZ5a1r-kVsf)<br>[I-JEPA](https://arxiv.org/abs/2301.08243)<br>[V-JEPA 2](https://arxiv.org/abs/2506.09985)<br>[LeJEPA](https://arxiv.org/abs/2511.08544) | [Notes](group-meetings/20260611_JEPA/notes.md) |  |
 | 2026-06-04 | Slot Attention | 张雨阳 | [Slides](group-meetings/20260604_Slot%20Attention/slides.pdf) | [Slot Attention](https://arxiv.org/abs/2006.15055) | [Notes](group-meetings/20260604_Slot%20Attention/notes.md) |  |
