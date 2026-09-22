@@ -9,7 +9,7 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
-| - | - | - | - | - | - |  |
+| 2026-06-11 | JEPA | 陈力豪 | - | [JEPA](https://openreview.net/pdf?id=BZ5a1r-kVsf)<br>[I-JEPA](https://arxiv.org/abs/2301.08243)<br>[V-JEPA 2](https://arxiv.org/abs/2506.09985)<br>[LeJEPA](https://arxiv.org/abs/2511.08544) | - |  |
 | 2026-06-04 | Slot Attention | 张雨阳 | [Slides](group-meetings/20260604_Slot%20Attention/slides.pdf) | [Slot Attention](https://arxiv.org/abs/2006.15055) | [Notes](group-meetings/20260604_Slot%20Attention/notes.md) |  |
 | 2026-05-21 | MMFM | 张欣宇 | [Slides](group-meetings/20260521_MMFM/slides.pdf) | [MMFM](https://openreview.net/forum?id=hwnObmOTrV) | [Notes](group-meetings/20260521_MMFM/notes.md) |  |
 | 2026-05-14 | Just image Transformers | 陈力豪 | [Slides](group-meetings/20260514_JiT/slides.pdf) | [JiT](https://arxiv.org/abs/2511.13720) | [Notes](group-meetings/20260514_JiT/notes.md) |  |
