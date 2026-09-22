@@ -1,1 +1,10 @@
-
+date: 2026-06-25
+topic: Transformer
+speaker: 张雨阳
+papers: 
+  - title: Transformer
+    url: https://arxiv.org/abs/1706.03762
+  - title: ViT
+    url: https://arxiv.org/abs/2010.11929
+  - title: DiT
+    url: https://arxiv.org/abs/2212.09748
