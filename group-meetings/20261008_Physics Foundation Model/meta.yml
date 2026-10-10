@@ -1,1 +1,17 @@
-
+date: 2026-10-10
+topic: Physics Foundation Model
+speaker: 陈力豪
+papers: 
+  - title: DPOT
+    url: https://arxiv.org/abs/2403.03542
+  - title: PhysiX
+    url: https://arxiv.org/abs/2506.17774
+  - title: Walrus
+    url: https://arxiv.org/abs/2511.15684
+  - title: Phaedra
+    url: https://arxiv.org/abs/2602.03915
+  - title: The Value of Tokenizer
+    url: https://arxiv.org/abs/2603.05598
+  - title: Criticism
+    url: https://arxiv.org/abs/2605.29283
+  
