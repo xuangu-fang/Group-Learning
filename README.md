@@ -9,6 +9,7 @@
 <!-- MEETING_TABLE_START -->
 | 📅 会议日期 | 📌 主题 | 👤 主讲人 | 📊 PPT | 📄 相关论文 | 📝 会议纪要 | 其他资料 |
 |--------|------|--------|-----|---------|----------|----------|
+| - | - | - | - | - | - |  |
 | 2026-10-15 | TranSolver | 张欣宇 | [Slides](group-meetings/20261015_TranSolver/slides.pdf) | [Transolver](https://arxiv.org/abs/2402.02366)<br>[Transolver++](https://arxiv.org/abs/2502.02414)<br>[Transolver-3](https://arxiv.org/abs/2602.04940)<br>[Transolver-σ](https://arxiv.org/html/2609.37279v1)<br>[GeoPT](https://arxiv.org/abs/2602.20399) | [Notes](group-meetings/20261015_TranSolver/notes.pdf) |  |
 | 2026-10-08 | Physics Foundation Model | 陈力豪 | [Slides](group-meetings/20261008_Physics%20Foundation%20Model/slides.pdf) | [DPOT](https://arxiv.org/abs/2403.03542)<br>[PhysiX](https://arxiv.org/abs/2506.17774)<br>[Walrus](https://arxiv.org/abs/2511.15684)<br>[Phaedra](https://arxiv.org/abs/2602.03915)<br>[The Value of Tokenizer](https://arxiv.org/abs/2603.05598)<br>[Criticism](https://arxiv.org/abs/2605.29283) | [Notes](group-meetings/20261008_Physics%20Foundation%20Model/notes.md) |  |
 | 2026-06-25 | Transformer | 张雨阳 | [Slides](group-meetings/20260625_Transformer/slides.pdf) | [Transformer](https://arxiv.org/abs/1706.03762)<br>[ViT](https://arxiv.org/abs/2010.11929)<br>[DiT](https://arxiv.org/abs/2212.09748) | [Notes](group-meetings/20260625_Transformer/notes.md) |  |
