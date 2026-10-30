@@ -11,8 +11,9 @@ TABLE_START = "<!-- MEETING_TABLE_START -->"
 TABLE_END = "<!-- MEETING_TABLE_END -->"
 
 _SLIDES_OR_NOTES = re.compile(
-    r"group-meetings/([^)]+?)/(?:slides\.pdf|notes\.md)", re.IGNORECASE
+    r"group-meetings/([^)]+?)/(?:slides\.pdf|notes\.(md|pdf))", re.IGNORECASE
 )
+
 
 
 def _is_table_separator_row(line: str) -> bool:
@@ -113,8 +114,16 @@ def generate_meeting_table(
         slides_path = str(folder / "slides.pdf").replace(" ", "%20")
         slides_link = f"[Slides]({slides_path})" if (folder / "slides.pdf").exists() else "-"
 
-        notes_path = str(folder / "notes.md").replace(" ", "%20")
-        notes_link = f"[Notes]({notes_path})" if (folder / "notes.md").exists() else "-"
+        # notes_path = str(folder / "notes.md").replace(" ", "%20")
+        # notes_link = f"[Notes]({notes_path})" if (folder / "notes.md").exists() else "-"
+        if (folder / "notes.pdf").exists():
+            notes_path = str(folder / "notes.pdf").replace(" ", "%20")
+            notes_link = f"[Notes]({notes_path})"
+        elif (folder / "notes.md").exists():
+            notes_path = str(folder / "notes.md").replace(" ", "%20")
+            notes_link = f"[Notes]({notes_path})"
+        else:
+            notes_link = "-"
 
         other = _other_cell(by_folder, by_date_topic, folder.name, date, topic)
         rows.append(
