@@ -1,1 +1,16 @@
-
+date: 2026-10-29
+topic: Agent for small model
+speaker: 张凯译
+papers: 
+  - title: TS agent
+    url: https://arxiv.org/html/2508.13915v1
+  - title: TimeEvo
+    url: https://arxiv.org/abs/2609.27277
+  - title: TIMEVOLVE
+    url: https://arxiv.org/abs/2609.24862
+  - title: 4KAgent
+    url: https://arxiv.org/abs/2507.07105
+  - title: AI-SC
+    url: https://arxiv.org/abs/2607.12122
+  - title: PINNMorph
+    url: https://arxiv.org/abs/2609.32685
