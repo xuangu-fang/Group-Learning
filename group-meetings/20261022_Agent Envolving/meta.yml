@@ -1,1 +1,16 @@
+date: 2026-10-22
+topic: Agents Self-Envolving
+speaker: 张雨阳
+papers: 
+  - title: A survey
+    url: https://arxiv.org/abs/2507.21046
+  - title: Reflexion
+    url: https://arxiv.org/abs/2303.11366
+  - title: Prompt Optimization
+    url: https://arxiv.org/abs/2305.03495
+  - title: TextGrad
+    url: https://arxiv.org/abs/2406.07496
+  - title: ReasoningBank
+    url: https://arxiv.org/abs/2509.25140
 
+  
